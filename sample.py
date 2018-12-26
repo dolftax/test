@@ -9,3 +9,4 @@ if x == 1:
     
 defs foo():
     foob()
+baz()
