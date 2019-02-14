@@ -1,5 +1,5 @@
 import os
-import random
+import randomh
 
 x = 1
 if x == 1:
