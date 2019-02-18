@@ -7,6 +7,6 @@ test_patterns = ["tests/"]
 name = "python"
 enabled  = true
 dependency_file_paths = ["requirements.txt"]
-[[analyzers.meta]]
+[analyzers.meta]
 max_line_length = 10
   
