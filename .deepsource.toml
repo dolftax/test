@@ -9,5 +9,5 @@ enabled  = true
 dependency_file_paths = ["requirements.txt"]
   [analyzers.meta]
   max_line_length = 80
-  skip_doc_coverage = ["hello", "bar"]
+  skip_doc_coverage = ["magic"]
   
